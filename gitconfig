@@ -48,3 +48,6 @@
 
 [branch "master"]
   mergeoptions = --no-edit
+[user]
+	email = samir.elmaoujoudi@gmail.com
+	name = Samir El Maoujoudi
